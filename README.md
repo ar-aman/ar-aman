@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar-aman
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html and Javascript 
+- 👀 I’m interested in science and web development
+- 🌱 I’m currently learning python and powerBI
 - 💞️ I’m looking to collaborate on a mini project
 - 📫 How to reach me amanraj02722@gmail.com 
 
